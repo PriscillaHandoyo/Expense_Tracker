@@ -1,3 +1,3 @@
-2.0, Food, Unknown
 50.0, Entertainment, Unknown
-3.0, Groceries, 2025-04-18
+4.0, Groceries, 2022-03-24
+50.0, Groceries, 2025-03-5
