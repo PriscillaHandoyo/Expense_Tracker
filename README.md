@@ -1,4 +1,4 @@
-## Expense Tracker
+# Expense Tracker
 
 ## Description
 This is a simple Expense Tracker program written in Python that allows users to track their expenses, categorize them, and filter them based on categories. The program saves expenses to a file and allows users to remove incorrect entries. 
