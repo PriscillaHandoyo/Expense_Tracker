@@ -3,7 +3,7 @@
 ## Description
 This is a simple Expense Tracker program written in Python that allows users to track their expenses, categorize them, and filter them based on categories. The program saves expenses to a file and allows users to remove incorrect entries. 
 
-Based from freeCodeCamp project (https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-lambda-functions-by-building-an-expense-tracker).
+Based from freeCodeCamp project [Learn Lambda Functions by Building an Expense Tracker](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-lambda-functions-by-building-an-expense-tracker).
 
 ## Features
 - Add expenses with amount, date, and category selection.
